@@ -1,0 +1,1 @@
+It hides the complexity of the underlying system and provides a simple interface that clients can use to interact with the system.

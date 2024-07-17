@@ -1,0 +1,4 @@
+A mediator design pattern is one of the important and widely used behavioral design patterns. Mediator enables the decoupling of objects by introducing a layer in between so that the interaction between objects happens via the layer. Real Life
+
+    If the objects interact with each other directly, the system components are tightly coupled with each other making higher maintainability cost and not hard to extend.
+    The mediator pattern focuses on providing a mediator between objects for communication and helps in implementing loose coupling between objects.

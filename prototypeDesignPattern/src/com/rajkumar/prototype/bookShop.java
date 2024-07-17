@@ -42,7 +42,7 @@ public class bookShop implements Cloneable {
 	protected Object clone() throws CloneNotSupportedException {
 	    
 		bookShop shop= new bookShop();
-		
+		 
 		for(Book b:getBooks())
 		{
 			shop.getBooks().add(b);

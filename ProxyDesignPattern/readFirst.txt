@@ -1,0 +1,2 @@
+A Proxy Method or Proxy Design Pattern is a structural design pattern that provides a surrogate or placeholder for another object to control access to it.
+This pattern involves creating a new class, known as the proxy, which acts as an intermediary between a client and the real object. The proxy object controls access to the real object, allowing you to add additional functionality, such as lazy loading, access control, logging, or caching, without changing the actual object’s code.

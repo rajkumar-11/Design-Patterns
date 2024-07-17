@@ -1,0 +1,8 @@
+A strategy pattern is a behavioral design pattern that allows the behavior of an object to be selected at runtime. It is one of the Gang of Four (GoF) design patterns, which are widely used in object-oriented programming. In simpler terms, The Strategy Pattern allows you to define a family of algorithms, encapsulate each one of them, and
+make them interchangeable. This pattern lets the algorithm vary independently from clients that use it.
+
+Real-World Analogy of Strategy Design Pattern
+
+Imagine you’re planning a trip to a new city, and you have several options for getting there: by car, by train, or by plane. Each mode of transportation offers its own set of advantages and disadvantages, depending on factors such as cost, travel time, and convenience.
+
+//run-time selection

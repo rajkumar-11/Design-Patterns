@@ -1,0 +1,1 @@
+The Prototype Design Pattern is a creational pattern that allows for the creation of new objects by copying existing objects, known as prototypes. This pattern is useful when the cost of creating a new object is more expensive than copying an existing one.

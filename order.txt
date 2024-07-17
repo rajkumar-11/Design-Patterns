@@ -1,0 +1,38 @@
+1.Factory Design pattern
+2.Abstract Factory
+3.Singleton
+4.prototype
+5.Builder
+6.Adapter
+7.Composite
+8.Decorator
+9.Chain of responsibility => checkout low level design of ATM
+10.Command => remember the implementation we have done for executing command
+11.State => see vending machine
+12. Mediator
+13. Momento
+14. Observer
+15. Strategy
+16. Template
+
+
+
+
+
+
+
+
+
+
+
+If get time
+1.Bridge design pattern
+2.Facade Design pattern
+3.FlyWeight Design pattern
+4.Proxy Design pattern
+5.Visitor Design pattern
+
+
+Not to do:
+Interpreter Design Pattern
+
