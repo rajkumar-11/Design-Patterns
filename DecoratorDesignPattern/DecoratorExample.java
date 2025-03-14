@@ -116,7 +116,7 @@ class PizzaStore
         // create new FarmHouse pizza
         Pizza pizza2 = new FarmHouse();
 
-        // decorate it with freshtomato topping
+        // decorate it with freshtomato topping 
         pizza2 = new FreshTomato(pizza2);
 
         //decorate it with paneer topping
